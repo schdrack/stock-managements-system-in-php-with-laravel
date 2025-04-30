@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="card mt-5">
-  <h2 class="card-header">Laravel 12 CRUD Example from scratch - ItSolutionStuff.com</h2>
+  <h2 class="card-header">stock management system infinitynura.com</h2>
   <div class="card-body">
 
         @session('success')

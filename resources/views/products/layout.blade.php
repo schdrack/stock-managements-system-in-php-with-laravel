@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Laravel 12 CRUD Application - ItSolutionStuff.com</title>
+    <title>infinity mura</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
     <style>
@@ -154,7 +154,7 @@
 <body>
     <header>
         <div class="header-content">
-            <div class="logo">Management System</div>
+            <div class="logo">Stock Management System</div>
             <div class="tagline">Streamline your operations with our comprehensive solution</div>
         </div>
     </header>
@@ -189,7 +189,7 @@
             </div>
         </div>
         <div class="copyright">
-            &copy; 2023 Management System Pro | Optimize • Automate • Succeed
+            &copy; 2023 Stock Management System Pro | Optimize • Automate • Succeed
         </div>
     </footer>
 </body>
